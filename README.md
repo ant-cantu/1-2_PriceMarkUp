@@ -34,5 +34,5 @@ the sales tax percent, the cost of the sales tax, and the final price with the
 mark up and sales tax added together.
 
 <p align="center">
-<img src="https://github.com/ant-cantu/PayrollCalculator/assets/137722821/26a9080b-2678-45e1-8ab4-577fecb73d52" width="70%" height="50%"></img>
+<img src="https://github.com/ant-cantu/PriceMarkUp/assets/137722821/d1ec7201-5dac-4f80-a895-e1fac0db933d" width="70%" height="50%"></img>
 </p>
