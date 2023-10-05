@@ -11,6 +11,8 @@ information that was input and outputs the corresponding information.
 
 [![image](https://skillicons.dev/icons?i=cpp,visualstudio)](https://skillicons.dev)
 
+## Source Code:
+> [Source Code](https://github.com/ant-cantu/PriceMarkUp/blob/main/PriceMarkUp.cpp)
 
 ## Getting Started
 
